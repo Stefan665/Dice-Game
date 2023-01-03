@@ -1,0 +1,61 @@
+body{
+  background-color: #393E46;
+}
+
+h2{
+  color: #4ECCA3;
+  font-family: cursive;
+  margin-top: 15%;
+   font-size: 1.2em;
+   transform: scale(1, 1.1);
+  text-align: center;
+}
+
+h3{
+  color: #4ECCA3;
+  font-family: cursive;
+  font-size: 1.2em;
+  transform: scale(1, 1.1);
+  text-align: center;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: cursive;
+    width: 256px;
+    height: 46px;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+#wichPlayer{
+  margin: 30px;
+    font-family: cursive;
+    font-size: 120px;
+    color: #4ECCA3;
+}
+
+#contact{
+  margin-left: 1.5%;
+  margin-right: 1.5%;
+  font-size: 100%;
+  color: #fff;
+}
